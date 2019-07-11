@@ -3,7 +3,7 @@
 block_cipher = None
 
 
-a = Analysis(['SDLasn1.py'],
+a = Analysis(['\\dist\\SDLasn1.py'],
              pathex=['C:\\Users\\HanselAIO\\Documents\\GitHub\\pyAsnProject\\pyAsnProject'],
              binaries=[],
              datas=[],
