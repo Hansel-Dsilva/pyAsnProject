@@ -3,7 +3,6 @@ print("Press 0 to display question list")
 ls1 = []
 for i in range(66):
     ls1.append(str(i))
-
 while 1:
     Qno = input("Enter question no. : ")
     if Qno not in ls1:
